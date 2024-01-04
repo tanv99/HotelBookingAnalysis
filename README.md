@@ -1,4 +1,4 @@
-# Diwali Sales Analysis
+# Hotel Booking Analysis
 
 ## Problem Statement
 
